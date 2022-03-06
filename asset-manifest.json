@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/maslow/static/css/main.8e841bad.css",
+    "main.js": "/maslow/static/js/main.d2abedbb.js",
+    "static/js/787.85c9f359.chunk.js": "/maslow/static/js/787.85c9f359.chunk.js",
+    "static/media/avatar.png": "/maslow/static/media/avatar.032e26b8ac8851477e37.png",
+    "static/media/maslowLogo.png": "/maslow/static/media/maslowLogo.8fbb4ed219d3c3a8c792.png",
+    "index.html": "/maslow/index.html",
+    "main.8e841bad.css.map": "/maslow/static/css/main.8e841bad.css.map",
+    "main.d2abedbb.js.map": "/maslow/static/js/main.d2abedbb.js.map",
+    "787.85c9f359.chunk.js.map": "/maslow/static/js/787.85c9f359.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e841bad.css",
+    "static/js/main.d2abedbb.js"
+  ]
+}
